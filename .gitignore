@@ -1,0 +1,24 @@
+.vs/
+*.user
+*.suo
+bin/
+obj/
+publish/
+
+# Configurações locais e segredos
+.env
+.env.*
+appsettings.Local.json
+appsettings.Production.json
+
+# Logs e temporários
+*.log
+*.tmp
+*.bkp
+checkservice_shadow/
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
